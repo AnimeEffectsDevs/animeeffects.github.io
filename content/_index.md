@@ -1,33 +1,31 @@
 +++
-title = "Compose"
+title = "Anime Effects"
 [data]
 baseChartOn = 3
 colors = ["#627c62", "#11819b", "#ef7f1a", "#4e1154"]
 columnTitles = ["Section", "Status", "Author"]
-fileLink = "content/projects.csv"
 title = "Projects"
 
 +++
 {{< block "grid-2" >}}
 {{< column >}}
 
-# Compose your Docs with **Ease**.
+# Easily animate 2D images.
 
-Compose is a lean `Hugo` domentation theme, inspired by [forestry.io](https://forestry.io/docs/welcome/).
-
-{{< tip "warning" >}}
-Feel free to open a [PR](https://github.com/onweru/compose/pulls), raise an [issue](https://github.com/onweru/compose/issues/new/choose "Open a Github Issue")(s) or request new feature(s). {{< /tip >}}
+Anime Effects, or AniE for short, is an open source 2D animation app written in C++ using the Qt framework, originally developed by [hidefuku](https://github.com/hidefuku/) and currently being maintained by the [AnimeEffectsDevs](https://github.com/AnimeEffectsDevs), this application serves the purpose of simplifying the making of animations using 2D assets.
 
 {{< tip >}}
-You can generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown using [mermaid](./docs/compose/mermaid/).
-
-Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doughnut--bar-chart-at-once) and tables from a csv, ~~or a json~~ file.
+Feel free to read through our [source code](https://github.com/AnimeEffectsDevs/AnimeEffects) and to join our [Discord](https://discord.gg/sKp8Srm), where we regularly post updates and discuss the development of this application.
 {{< /tip >}}
 
-{{< button "docs/compose/" "Read the Docs" >}}{{< button "https://github.com/onweru/compose" "Download Theme" >}}
+{{< tip "warning" >}}
+Feel free to open a [PR](https://github.com/AnimeEffectsDevs/AnimeEffects/pulls), raise an [issue](https://github.com//AnimeEffectsDevs/AnimeEffects/issues/new/choose "Open a Github Issue")(s) or request new feature(s). {{< /tip >}}
+
+{{< button "docs/compose/" "Tutorials" >}}
+{{< button "https://github.com/onweru/compose" "Download AniE" >}}
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/scribble.jpg)
+![diy](/images/ae_screenshot.jpg)
 {{< /column >}}
 {{< /block >}}
