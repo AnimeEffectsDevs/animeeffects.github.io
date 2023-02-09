@@ -23,7 +23,7 @@ AnimeEffects（略してAniE）は、Qtフレームワークを使用してC++�
 {{< /column >}}
 
 {{< column "mt-2">}}
-![ae_screenshot](/images/ae_screenshot.jpg)
+![ae_screenshot](/images/ae_screenshot_jp.jpg)
 {{< /column >}}
 
 {{< /block >}}
