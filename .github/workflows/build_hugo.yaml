@@ -1,4 +1,4 @@
-name: github pages
+name: GitHub Pages
 
 # Taken from https://github.com/KalebHawkins/KryoLogs/blob/main/.github/workflows/gh-pages.yaml
 # Apache License 2.0 https://github.com/KalebHawkins/KryoLogs/blob/main/LICENSE
@@ -8,6 +8,7 @@ on:
     branches:
       - main  # Set a branch that will trigger a deployment
   pull_request:
+  workflow_dispatch:
 
 jobs:
   deploy:
