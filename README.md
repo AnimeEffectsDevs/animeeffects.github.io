@@ -1,3 +1,3 @@
-## Guide
+## The AnimeEffects site
 
-This guide covers the necessary bits. As the project evolves, it will only become more comprehensive
+This has been built using Hugo and the Compose theme.
