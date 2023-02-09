@@ -18,8 +18,8 @@ AnimeEffects（略してAniE）は、Qtフレームワークを使用してC++�
 私たちの [GitHub](https://github.com/AnimeEffectsDevs/AnimeEffects) でコードを読み、貢献し、問題を報告し、機能を要求し、私たちが定期的に更新を投稿し、このアプリケーションの開発について議論している [Discord](https://discord.gg/sKp8Srm) に参加すること自由に感じなさい。
 {{< /tip >}}
 
-{{< button "docs/" "ドックス" >}}
-{{< button "https://github.com/AnimeEffectsDevs/AnimeEffects/releases/latest" "アニメエフェクツをダウンロード" >}}
+{{< button "docs/" "ドックス ![:inline](https://img.shields.io/badge/ドキュメンテーション-v1.4.2-informational?style=for-the-badge)"" >}}
+{{< button "https://github.com/AnimeEffectsDevs/AnimeEffects/releases/latest" "アニメエフェクツをダウンロード ![:inline](https://img.shields.io/github/v/release/AnimeEffectsDevs/AnimeEffects?style=for-the-badge)" >}}
 {{< /column >}}
 
 {{< column "mt-2">}}
