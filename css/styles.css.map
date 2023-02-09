@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/runner/work/animeeffects.github.io/animeeffects.github.io",
+	"sourceRoot": "/home/runner/work/animeeffectsdevs.github.io/animeeffectsdevs.github.io",
 	"sources": [
 		"/tmp/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/compose@v0.0.0-20220613160631-5be4d7fe9437/assets/sass/main.sass",
 		"../../../../../tmp/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/compose@v0.0.0-20220613160631-5be4d7fe9437/assets/sass/_variables.sass",
