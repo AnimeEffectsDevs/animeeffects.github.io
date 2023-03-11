@@ -23,7 +23,7 @@ Feel free to read our code, contribute, report issues and request features in ou
 
 {{< /column >}}
 {{< column "mt-2">}}
-![ae_screenshot](/images/ae_screenshot.jpg)
+![ae_screenshot](/images/english/ae_screenshot.jpg)
 {{< /column >}}
 
 {{< /block >}}

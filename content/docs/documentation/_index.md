@@ -1,8 +1,10 @@
 ---
-title: "Documentation"
+title: "Docs"
 weight: 1
 ---
 
-We'll be in touch ❤️
+Welcome to the documentation for AnimeEffects, a simple yet powerful 2D animation tool designed for artists and animators. <br><br>
+This documentation will guide you through the various tools and features of AnimeEffects, and provide you with the information you need to get started with your animation project.
 
-{{< button "https://media.discordapp.net/attachments/801133016893227008/1073275376186433576/Screenshot_2023-02-09_131251.png" "Don't wander too far..." >}}
+{{< button "./introduction/" "Get started" >}}
+{{< button "../" "Go back" >}}

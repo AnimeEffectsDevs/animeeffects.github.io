@@ -7,6 +7,33 @@ weight: 1
 
 <br>
 
+***v1.4.3***:
+### @GBotHQによる変更
+* OpenGLのバージョンをバージョン3.1に引き下げました。
+* SpinBox と DoubleSpinBox のライブアップデート、一度に 10 回ステップするためのキーバインド (値を変更するときにシフトを保持する)
+
+### @p-yukusaiによる変更 
+* オートセーブの追加
+* キーバインド（Ctrl-C、Ctrl-V、Ctrl-X）によるキーのコピー、ペースト、削除を可能にする。
+* 固定ネットワーク
+* アニメエフェクトのダウンロードは、「アップデートを確認する」メニューから行うことができます。
+* FFD選択時にメッシュを自動的に表示するオプションがあります。
+* 書き出し前に FFmpeg のチェックを行うようにした。
+* オプションメニューにFFmpegヘルパーを追加（トラブルシューティングとセットアップ）
+* バグフィックス
+* 文字列のマイナーチェンジ
+* JPの翻訳を更新しました。
+* キーバインドをデフォルトに戻すボタンを追加しました。
+* 不足しているデフォルトのキーバインドを追加しました。
+* Ubuntu BionicのビルドはEOLに達した。
+
+**バージョンマージ**: https://github.com/AnimeEffectsDevs/AnimeEffects/pull/24 <br>
+**完全なChangelog**: https://github.com/AnimeEffectsDevs/AnimeEffects/compare/v1.4.2...v1.4.3
+
+{{< button "https://github.com/AnimeEffectsDevs/AnimeEffects/releases/v1.4.3" "ダウンロードはこちら">}}
+
+<br><br>
+
 ***v1.4.2***:
 
 - レイヤー ノードに新しいアニメーション キー (色相、彩度 & 値、または HSV) を追加しました。フォルダーのサポートは準備ができていませんが、オプトインできます。

@@ -7,6 +7,34 @@ weight: 1
 
 <br>
 
+***v1.4.3***:
+
+### Changes by @GBotHQ
+* Lowered OpenGL version requirement to version 3.1 (Compatibility with older systems)
+* SpinBox and DoubleSpinBox live update, keybind for stepping 10 at a time (hold shift while changing values)
+
+### Changes by @p-yukusai 
+* Added Autosaves
+* Allow for copying, pasting and deleting keys through keybinds (Ctrl-C, Ctrl-V & Ctrl-X)
+* Fixed networking
+* Option to download AnimeEffects from the "Check for Updates" menu
+* Option to automatically show mesh when selecting FFD
+* Added FFmpeg check before exporting
+* Added an FFmpeg helper to the options menu (Troubleshoot and setup)
+* Bugfixes
+* Minor string changes
+* Updated JP translations
+* Added a button to reset your keybinds to the default
+* Added missing default keybinds
+* Ubuntu Bionic builds have reached EOL
+
+**Version Merge**: https://github.com/AnimeEffectsDevs/AnimeEffects/pull/24 <br>
+**Full Changelog**: https://github.com/AnimeEffectsDevs/AnimeEffects/compare/v1.4.2...v1.4.3
+
+{{< button "https://github.com/AnimeEffectsDevs/AnimeEffects/releases/v1.4.3" "Download here">}}
+
+<br><br>
+
 ***v1.4.2***:
 
 - Added new animation key (Hue, Saturation & Value, or HSV) for layer nodes, folder support is not ready but can be opted into. 
